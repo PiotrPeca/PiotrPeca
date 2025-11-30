@@ -4,7 +4,7 @@
 
 ## About me
 
-🎓 *Computer Science and Intelligent Systems — First-cycle Engineering Programme (Full-time)*  
+🎓 *3rd year Computer Science and Intelligent Systems student on AGH University of Krakow*  
 💡 Ambitious, curious and always exploring new technologies — from web development to machine learning.
 
 ---
