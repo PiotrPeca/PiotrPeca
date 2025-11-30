@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="BANNER_LINK_HERE" alt="Piotr Peca Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm Piotr Peca</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1100&height=50&color=09F73E&lines=Software+Craftsman)](https://git.io/typing-svg)
+
+## About me
 
 🎓 *Computer Science and Intelligent Systems — First-cycle Engineering Programme (Full-time)*  
 💡 Ambitious, curious and always exploring new technologies — from web development to machine learning.
@@ -12,22 +12,13 @@
 ## 🚀 Technologies & Tools
 
 ### **Languages & Core Skills**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[![](https://skillicons.dev/icons?i=js,html,css,py,postgres,nodejs)](https://skillicons.dev)
 
 ### **Previously Used / Learning**
-![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+[![](https://skillicons.dev/icons?i=c,cpp,cs,java)](https://skillicons.dev)
 
 ### **Web Development**
-![Express](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Fetch API](https://img.shields.io/badge/Fetch_API-02569B.svg?style=for-the-badge)
+[![](https://skillicons.dev/icons?i=react,express)](https://skillicons.dev)
 
 ### **Machine Learning / Data Science**
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -37,11 +28,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### **Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+[![](https://skillicons.dev/icons?i=linux,git,github)](https://skillicons.dev)
 
 ---
 
@@ -86,8 +73,8 @@
 
 ## 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/piotr-peca/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/piotr-peca/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 
 ---
@@ -96,14 +83,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiotrPeca&theme=tokyonight" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiotrPeca&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrPeca&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
